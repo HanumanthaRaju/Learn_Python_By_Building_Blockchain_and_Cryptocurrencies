@@ -57,6 +57,14 @@ If the data you store in a block is a list of transactions, the coins transferre
 
 ![outcome](./07.JPG)
 
+# Python Vs Other Languages
+
+![outcome](./08.JPG)
+
+![outcome](./09.JPG)
+
+
+
 
 
 

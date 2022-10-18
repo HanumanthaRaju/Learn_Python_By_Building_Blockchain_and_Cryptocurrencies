@@ -7,6 +7,8 @@ In this Course you will learn Python by building an entire Blockchain and your o
 Access the link: https://www.python.org/downloads/
 Download the python version specific to Your Operating system and get it installed.
 
+![outcome](./01.JPG)
+
 
 
 

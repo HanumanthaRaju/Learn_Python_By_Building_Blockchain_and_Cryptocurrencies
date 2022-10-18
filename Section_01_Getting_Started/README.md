@@ -9,6 +9,12 @@ Download the python version specific to Your Operating system and get it install
 
 ![outcome](./01.JPG)
 
+Once installed, open the command terminal and run the command as shown below, >>> describes you are in Python repository.
+
+![outcome](./02.JPG)
+
+
+
 
 
 

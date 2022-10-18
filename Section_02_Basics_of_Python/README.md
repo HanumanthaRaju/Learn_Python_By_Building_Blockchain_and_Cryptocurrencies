@@ -1,3 +1,10 @@
-# Core_Java
+# Base Syntax of Python and Basic Blockchain
 
-This repositry contains programs related to Java Programs
+# Module Overview
+
+![outcome](./01.JPG)
+
+# What about Blockchain?
+
+![outcome](./02.JPG)
+

@@ -9,7 +9,7 @@ Download the python version specific to Your Operating system and get it install
 
 ![outcome](./01.JPG)
 
-Once installed, open the command terminal and run the command as shown below, >>> describes you are in Python repository.
+Once installed, open the command terminal and run the command as shown below, *>>>* describes you are in Python repository.
 
 ![outcome](./02.JPG)
 
@@ -30,6 +30,37 @@ Python is a powerful, easy-to-use, object-oriented programming language.
 **Easy-to-Use**: clean and simple syntax, offers great documentation
 
 **Object Oriented**: Embraces objects, classes, inheritance and allows you to easily work with complex data structures
+
+# First Python Program
+
+Uses **input()** to read data from user, stores it in a variable, also uses files to store the data and retrieve the data from file.
+
+![outcome](./03.JPG)
+
+# What's a Blockchain
+
+A distributed data storage consisting of containers (blocks) which are connected.
+
+![outcome](./04.JPG)
+
+## What's Cryptocurrency?
+
+If the data you store in a block is a list of transactions, the coins transferred in the transactions form your cryptocurrency.
+
+![outcome](./05.JPG)
+
+## Where are the Coins?
+
+![outcome](./06.JPG)
+
+## Blockchain Big picture
+
+![outcome](./08.JPG)
+
+
+
+
+
 
 
 

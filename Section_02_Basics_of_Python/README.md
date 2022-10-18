@@ -8,7 +8,7 @@
 
 ![outcome](./02.JPG)
 
-# Understanding repland Python Datatypes
+# Understanding repl and Python Datatypes
 
 ## The REPL (Read, Evaluate, Print and Loop)
 
@@ -21,6 +21,12 @@
 ## Python Data types
 
 ![outcome](./05.JPG)
+
+## Working with Variables
+
+![outcome](./06.JPG)
+
+
 
 
 

@@ -14,6 +14,26 @@ Once installed, open the command terminal and run the command as shown below, >>
 ![outcome](./02.JPG)
 
 
+# What is Python
+Python is a powerful, easy-to-use, object-oriented programming language.
+
+**Powerful**: Its Performat, it runs on all OS and its extremely versatile.
+
+**Versatility**: Scripts and Programs, Web Development (Server side code), Data Science
+
+**Scripts and Programs**: Use it as a Calculator (Using command line), Write simple (utility) scripts or complex programs, add a UI to create a desktop applications
+
+**Web development**: Use Python as a server side language, Build Full stack apps or REST APIs, Use frameworks like Django or Flask
+
+**Data Science**: Use rich set of third pary packages, gather, import and clean data, Do Statstical analyses, plotting, Machine Learning
+
+**Easy-to-Use**: clean and simple syntax, offers great documentation
+
+**Object Oriented**: Embraces objects, classes, inheritance and allows you to easily work with complex data structures
+
+
+
+
 
 
 

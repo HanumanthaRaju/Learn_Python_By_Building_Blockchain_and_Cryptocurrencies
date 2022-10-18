@@ -55,7 +55,7 @@ If the data you store in a block is a list of transactions, the coins transferre
 
 ## Blockchain Big picture
 
-![outcome](./08.JPG)
+![outcome](./07.JPG)
 
 
 

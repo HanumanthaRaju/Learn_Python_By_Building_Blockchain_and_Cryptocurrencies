@@ -28,7 +28,7 @@
 
 ![outcome](./07.JPG)
 
-## Choosing the right data structure
+## Choosing the right data structure: Refer to the Transaction, A Block and Manging List of Participants above
  For Transaction: We need Key value pair, we require Dictionary
  
  For List of transactions: We need List

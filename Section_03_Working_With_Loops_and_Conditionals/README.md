@@ -80,8 +80,13 @@ Refer to the loops-if-04-verifying-the-blockchain folder for the code
 
 ![outcome](./17.JPG)
 
+![outcome](./18.JPG)
 
+## Adding range function
 
+Refer to the loops-if-05-adding-range folder for the code
+
+![outcome](./19.JPG)
 
 
 

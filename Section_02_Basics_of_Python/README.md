@@ -146,6 +146,17 @@ https://peps.python.org/
 
 Style guide for Python code: https://peps.python.org/pep-0008/
 
+## Comments and doc Strings
+
+![outcome](./36.JPG)
+
+## Blockchain Theory: Understanding Blocks
+
+
+
+
+
+
 
 
 

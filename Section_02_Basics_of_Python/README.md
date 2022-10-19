@@ -174,7 +174,7 @@ Multiple Blocks in a list of Blocks then form the first simple Blockchain. No wo
 
 ![outcome](./38.JPG)
 
-
+## Refer to the assignment.txt file, and try to ring out the solution for the same
 
 
 

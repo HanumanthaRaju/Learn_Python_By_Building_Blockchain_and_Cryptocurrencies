@@ -80,6 +80,59 @@ Then create a file, to execute the python program, access view-->Terminal and us
 
 ![outcome](./18.JPG)
 
+## Functions
+
+### Adding List items with functions
+
+We start building our blockchain
+
+![outcome](./19.JPG)
+
+![outcome](./20.JPG)
+
+![outcome](./21.JPG)
+
+![outcome](./22.JPG)
+
+### Accessing the last list last list item
+
+![outcome](./23.JPG)
+
+### adding arguments
+
+![outcome](./24.JPG)
+
+![outcome](./25.JPG)
+
+### Understanding the return Keyword
+
+![outcome](./26.JPG)
+
+![outcome](./27.JPG)
+
+### Default arguments
+
+![outcome](./28.JPG)
+
+![outcome](./29.JPG)
+
+### Keyword arguments
+
+![outcome](./30.JPG)
+
+![outcome](./31.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

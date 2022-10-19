@@ -152,6 +152,19 @@ Style guide for Python code: https://peps.python.org/pep-0008/
 
 ## Blockchain Theory: Understanding Blocks
 
+* What's a Block? *
+
+Of course a "Blockchain" consists of multiple "Blocks" - and a single Block simply can be considered a data storage/ container. You can store ANY data of your choice in a Block.
+
+Cryptocurrencies like Bitcoin are the most prominent use-case of the Blockchain technology but you can also store simple text in Blocks if you want to. Of course using a Blockchain makes most sense for data that should be secure and distributed across a broad network though. Data transparency and safety are key advantages of the Blockchain.
+
+Even when considering Cryptocurrencies, you don't actually store the coins in a Block but rather the transactions between users. A transaction then includes an amount of coins that should be transferred.
+
+In this Tutorial, the Blocks we start with only holds a number. So you can think of it as a transaction, though the sender and recipient is missing. But that's something which will be added once we had a look at more complex data structures than simple lists.
+
+Multiple Blocks in a list of Blocks then form the first simple Blockchain. No worries, it'll get more complex than that over the course of the remaining modules!
+
+
 
 
 

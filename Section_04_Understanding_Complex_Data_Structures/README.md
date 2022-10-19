@@ -1,3 +1,27 @@
-# Core_Java
+# Understanding Complex Data Structures
 
-This repositry contains programs related to Java Programs
+![outcome](./01.JPG)
+
+# Module Overview
+
+![outcome](./02.JPG)
+
+# What about Blockchain?
+
+![outcome](./03.JPG)
+
+# Complex Data Structure Requirements
+
+## A Transaction
+
+![outcome](./04.JPG)
+
+## A Block
+
+![outcome](./05.JPG)
+
+## Managing List of Paricipants
+
+![outcome](./06.JPG)
+
+

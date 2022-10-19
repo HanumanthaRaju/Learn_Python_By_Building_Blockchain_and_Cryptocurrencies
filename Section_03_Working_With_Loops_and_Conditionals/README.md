@@ -70,6 +70,16 @@ There is no switch-case statement in python
 
 ## Verifying our blockchain
 
+Refer to the loops-if-04-verifying-the-blockchain folder for the code
+
+### Manipulating Blockchain
+
+![outcome](./16.JPG)
+
+### Checking our Blockchain
+
+![outcome](./17.JPG)
+
 
 
 

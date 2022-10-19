@@ -122,6 +122,28 @@ We start building our blockchain
 
 ![outcome](./31.JPG)
 
+### Using the input function
+
+![outcome](./32.JPG)
+
+### Avoiding repetitive code execution
+
+![outcome](./33.JPG)
+
+## Scope of a Variable
+
+![outcome](./34.JPG)
+
+## Explore the official docs
+
+Access the link to learn more about python: 
+https://docs.python.org/3/
+
+https://peps.python.org/
+
+Style guide for Python code: https://peps.python.org/pep-0008/
+
+
 
 
 

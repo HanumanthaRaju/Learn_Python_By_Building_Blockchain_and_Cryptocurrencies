@@ -152,7 +152,7 @@ Style guide for Python code: https://peps.python.org/pep-0008/
 
 ## Blockchain Theory: Understanding Blocks
 
-* What's a Block? *
+### What's a Block? 
 
 Of course a "Blockchain" consists of multiple "Blocks" - and a single Block simply can be considered a data storage/ container. You can store ANY data of your choice in a Block.
 
@@ -163,6 +163,18 @@ Even when considering Cryptocurrencies, you don't actually store the coins in a 
 In this Tutorial, the Blocks we start with only holds a number. So you can think of it as a transaction, though the sender and recipient is missing. But that's something which will be added once we had a look at more complex data structures than simple lists.
 
 Multiple Blocks in a list of Blocks then form the first simple Blockchain. No worries, it'll get more complex than that over the course of the remaining modules!
+
+## Refer to blockchain.py file , which we implemented in this tutorial
+
+## Module Summary
+
+![outcome](./37.JPG)
+
+## Blockchain status
+
+![outcome](./38.JPG)
+
+
 
 
 

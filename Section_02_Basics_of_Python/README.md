@@ -139,6 +139,7 @@ We start building our blockchain
 ## Explore the official docs
 
 Access the link to learn more about python: 
+
 https://docs.python.org/3/
 
 https://peps.python.org/

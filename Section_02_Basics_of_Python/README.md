@@ -26,6 +26,22 @@
 
 ![outcome](./06.JPG)
 
+## Working with Numbers
+
+![outcome](./07.JPG)
+
+![outcome](./08.JPG)
+
+![outcome](./09.JPG)
+
+## Operators
+
+![outcome](./10.JPG)
+
+![outcome](./11.JPG)
+
+
+
 
 
 

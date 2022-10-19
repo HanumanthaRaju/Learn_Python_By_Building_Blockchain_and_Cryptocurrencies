@@ -134,6 +134,8 @@ We start building our blockchain
 
 ![outcome](./34.JPG)
 
+![outcome](./35.JPG)
+
 ## Explore the official docs
 
 Access the link to learn more about python: 

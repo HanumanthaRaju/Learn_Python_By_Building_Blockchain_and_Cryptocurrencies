@@ -62,6 +62,28 @@ To understand the missing floating point precision
 
 ![outcome](./16.JPG)
 
+## Installing your IDE
+
+Download any of the IDE you prefer from
+
+https://code.visualstudio.com/download
+
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+https://www.anaconda.com/products/distribution
+
+For visual studio, install the python extension as shown and resart the IDE.
+
+![outcome](./17.JPG)
+
+Then create a file, to execute the python program, access view-->Terminal and use the command as shown
+
+![outcome](./18.JPG)
+
+
+
+
+
 
 
 

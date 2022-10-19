@@ -24,4 +24,21 @@
 
 ![outcome](./06.JPG)
 
+## Iterables Overview
+
+![outcome](./07.JPG)
+
+## Choosing the right data structure
+ For Transaction: We need Key value pair, we require Dictionary
+ 
+ For List of transactions: We need List
+ 
+ For Blockchain itself: We need List
+ 
+ For Block: Dictionary
+ 
+ For List of participants: Set, for storing unique values
+ 
+ 
+
 

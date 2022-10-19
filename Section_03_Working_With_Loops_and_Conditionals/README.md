@@ -88,6 +88,14 @@ Refer to the loops-if-05-adding-range folder for the code
 
 ![outcome](./19.JPG)
 
+## Module Summary
+
+![outcome](./20.JPG)
+
+![outcome](./21.JPG)
+
+
+
 
 
 

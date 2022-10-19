@@ -94,6 +94,12 @@ Refer to the loops-if-05-adding-range folder for the code
 
 ![outcome](./21.JPG)
 
+# Useful Resources and Links
+
+•	More on Loops: https://docs.python.org/3/tutorial/controlflow.html#for-statements
+
+•	More on if Statements: https://docs.python.org/3/tutorial/controlflow.html#if-statements
+
 
 
 

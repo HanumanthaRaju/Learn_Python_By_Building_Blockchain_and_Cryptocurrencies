@@ -40,6 +40,37 @@
 
 ![outcome](./11.JPG)
 
+## Understanding Special Number Behaviour
+
+To understand the missing floating point precision
+
+![outcome](./12.JPG)
+
+## Working with text
+
+![outcome](./13.JPG)
+
+## Lists
+
+### Adding and Removing List items
+
+![outcome](./14.JPG)
+
+![outcome](./15.JPG)
+
+## Preparing the Blockchain-Theory
+
+![outcome](./16.JPG)
+
+
+
+
+
+
+
+
+
+
 
 
 

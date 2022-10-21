@@ -67,7 +67,18 @@ Refer to the **blockchain.py** code in the folder **Understanding-list-Comprehen
 
 ![outcome](./14.JPG)
 
+## Dictionary Comprehensions
+
 ![outcome](./15.JPG)
+
+## List Comprehensions and if
+
+![outcome](./16.JPG)
+
+
+
+
+
 
 
 

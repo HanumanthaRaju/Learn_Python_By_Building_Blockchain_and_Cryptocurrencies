@@ -38,6 +38,13 @@
  For Block: Dictionary
  
  For List of participants: Set, for storing unique values
+
+## Transactions with Dictionaries and tuples
+
+![outcome](./08.JPG)
+
+
+
  
  
 

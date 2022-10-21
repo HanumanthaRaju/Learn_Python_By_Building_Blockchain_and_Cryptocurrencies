@@ -34,9 +34,43 @@
 
 change the print method is if not verify_chain() block
 
+Refer to **blockchain1.py** file
+
+## Understanding Map function
+
 ![outcome](./10.JPG)
 
-Refer to **blockchain1.py** file
+![outcome](./11.JPG)
+
+## Working with lambda function
+
+![outcome](./12.JPG)
+
+## Reducing lists
+
+![outcome](./13.JPG)
+
+We make changes in **get_balance()**
+
+Refer to **blockchain2.py** file
+
+## Unpacking function arguments
+
+![outcome](./14.JPG)
+
+## Module Summary
+
+![outcome](./15.JPG)
+
+![outcome](./16.JPG)
+
+## Refer to **blockchain_final_module.py** file for the implemented code in this module
+
+
+
+
+
+
 
 
 

@@ -51,13 +51,17 @@ Refer to the **blockchain.py** code in the folder **DATA-S~1**
 
 ![outcome](./10.JPG)
 
-## Mining blocks
+## Mining blocks and hashing previous block
 
 Refer to the **blockchain.py** code in the folder **data-structures-02-block-mining-baic-hash** 
 
 ![outcome](./11.JPG)
 
 ![outcome](./12.JPG)
+
+## List Comprehensions
+
+![outcome](./13.JPG)
 
 
 

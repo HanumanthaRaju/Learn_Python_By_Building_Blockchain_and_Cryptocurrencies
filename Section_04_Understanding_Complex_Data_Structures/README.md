@@ -85,6 +85,8 @@ Define new function hash_block(), mine_block() call hasH_block(last_block), upda
 
 ![outcome](./18.JPG)
 
+![outcome](./19.JPG)
+
 Refer to the **blockchain.py** code in the folder **managing-list-of-participants**
 
 

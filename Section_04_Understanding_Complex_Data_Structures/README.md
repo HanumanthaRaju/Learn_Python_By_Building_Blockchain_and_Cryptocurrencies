@@ -53,7 +53,7 @@ Refer to the **blockchain.py** code in the folder **DATA-S~1**
 
 ## Mining blocks
 
-Refer to the **blockchain.py** code in the folder
+Refer to the **blockchain.py** code in the folder **data-structures-02-block-mining-baic-hash** 
 
 ![outcome](./11.JPG)
 

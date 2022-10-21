@@ -1,4 +1,4 @@
-# More on Functions and Strings: DIgging Deeper
+# More on Functions and Strings: Digging Deeper
 
 ## Module Overview
 

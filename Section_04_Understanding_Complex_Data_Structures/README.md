@@ -29,6 +29,7 @@
 ![outcome](./07.JPG)
 
 ## Choosing the right data structure: Refer to the Transaction, A Block and Manging List of Participants above
+ 
  For Transaction: We need Key value pair, we require Dictionary
  
  For List of transactions: We need List
@@ -45,7 +46,7 @@
 
 Tuple Unpacking
 
-Refer to the **blockchain.py** code in the folder **DATA-S~1**
+Refer to the **blockchain1.py** code 
 
 ![outcome](./09.JPG)
 
@@ -53,7 +54,7 @@ Refer to the **blockchain.py** code in the folder **DATA-S~1**
 
 ## Mining blocks and hashing previous block
 
-Refer to the **blockchain.py** code in the folder **data-structures-02-block-mining-baic-hash** 
+Refer to the **blockchain2.py** code
 
 ![outcome](./11.JPG)
 
@@ -63,7 +64,7 @@ Refer to the **blockchain.py** code in the folder **data-structures-02-block-min
 
 ![outcome](./13.JPG)
 
-Refer to the **blockchain.py** code in the folder **Understanding-list-Comprehensions**
+Refer to the **blockchain3.py** code
 
 ![outcome](./14.JPG)
 
@@ -79,7 +80,7 @@ Refer to the **blockchain.py** code in the folder **Understanding-list-Comprehen
 
 ![outcome](./17.JPG)
 
-Define new function hash_block(), mine_block() call hasH_block(last_block), update the code in verify_chain()
+Define new function hash_block(), mine_block() call hash_block(last_block), update the code in verify_chain()
 
 ## Manging List of Participants
 
@@ -87,7 +88,22 @@ Define new function hash_block(), mine_block() call hasH_block(last_block), upda
 
 ![outcome](./19.JPG)
 
-Refer to the **blockchain.py** code in the folder **managing-list-of-participants**
+![outcome](./20.JPG)
+
+Refer to the **blockchain4.py** code 
+
+## Calculating Balances
+
+Updates a get_Balance()
+
+## Rewarding Miners
+
+Whenever a Miners create a new block, he needs to be rewarded i.e coins
+
+## Verifying Transactions
+
+Defines verify_transaction()
+
 
 
 

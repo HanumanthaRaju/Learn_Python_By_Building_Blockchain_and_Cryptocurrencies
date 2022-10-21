@@ -69,9 +69,13 @@ Refer to **blockchain2.py** file
 ## Useful Resources & Links
 
 •	More on format() : https://docs.python.org/3.4/library/functions.html#format
+
 •	More on the Python format()  Mini-Language: https://docs.python.org/3.4/library/string.html#formatspec
+
 •	Python Lambda Functions: https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions
+
 •	map() : https://docs.python.org/3/library/functions.html#map
+
 •	reduce() : https://docs.python.org/3/library/functools.html#functools.reduce
 
 

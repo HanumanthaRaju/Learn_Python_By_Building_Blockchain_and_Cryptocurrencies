@@ -51,6 +51,16 @@ Refer to the **blockchain.py** code in the folder **DATA-S~1**
 
 ![outcome](./10.JPG)
 
+## Mining blocks
+
+Refer to the **blockchain.py** code in the folder
+
+![outcome](./11.JPG)
+
+![outcome](./12.JPG)
+
+
+
 
 
  

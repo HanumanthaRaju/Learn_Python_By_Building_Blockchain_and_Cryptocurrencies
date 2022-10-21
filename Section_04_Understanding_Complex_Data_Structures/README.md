@@ -150,7 +150,7 @@ Unpacking:
 
 ![outcome](./32.JPG)
 
-![outcome](./33.JPG)
+![outcome](./Capture.JPG)
 
 ## Module Summary
 

@@ -43,6 +43,14 @@
 
 ![outcome](./08.JPG)
 
+Tuple Unpacking
+
+Refer to the **blockchain.py** code in the folder **DATA-S~1**
+
+![outcome](./09.JPG)
+
+![outcome](./10.JPG)
+
 
 
  

@@ -81,6 +81,13 @@ Refer to the **blockchain.py** code in the folder **Understanding-list-Comprehen
 
 Define new function hash_block(), mine_block() call hasH_block(last_block), update the code in verify_chain()
 
+## Manging List of Participants
+
+![outcome](./18.JPG)
+
+Refer to the **blockchain.py** code in the folder **managing-list-of-participants**
+
+
 
 
 

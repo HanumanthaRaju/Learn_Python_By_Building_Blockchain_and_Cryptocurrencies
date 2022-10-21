@@ -112,6 +112,58 @@ Defines verify_transaction()
 
 ![outcome](./23.JPG)
 
+![outcome](./24.JPG)
+
+Refer to the **blockchain5.py** code 
+
+## Range Selector
+
+![outcome](./25.JPG)
+
+## Shallow vs Deep Copying
+
+![outcome](./26.JPG)
+
+![outcome](./27.JPG)
+
+## Iterable methods
+
+Refer to Data structures in Pyhton.org for the methods involved in various data structures used in python
+
+## all and any
+
+![outcome](./28.JPG)
+
+Refer to the **blockchain6.py** code
+
+An addidtional feature to check transaction validity, define verify_transactions()
+
+## Iterables Overview
+
+![outcome](./29.JPG)
+
+Unpacking:
+
+![outcome](./30.JPG)
+
+![outcome](./31.JPG)
+
+![outcome](./32.JPG)
+
+![outcome](./33.JPG)
+
+## Module Summary
+
+![outcome](./34.JPG)
+
+![outcome](./35.JPG)
+
+### Refer to **blockchain_final_module.py** for the complete implementation of this module
+
+
+
+
+
 
 
 

@@ -75,6 +75,12 @@ Refer to the **blockchain.py** code in the folder **Understanding-list-Comprehen
 
 ![outcome](./16.JPG)
 
+## Improved blockchain Validation logic 
+
+![outcome](./17.JPG)
+
+Define new function hash_block(), mine_block() call hasH_block(last_block), update the code in verify_chain()
+
 
 
 

@@ -39,6 +39,20 @@
  For Block: Dictionary
  
  For List of participants: Set, for storing unique values
+ 
+## Blockchain Theory: Understanding Transactions
+
+As mentioned earlier, a Blockchain is all about storing data in Blocks. And for a Cryptocurrency, that data are Transactions (NOT Coins!).
+
+Transactions typically require three pieces of information:
+
+•	Who sends the coins? [sender ]
+•	Who receives the coins? [recipient ]
+•	How many coins are sent? [amount ]
+
+A transaction is treated as an "Open Transaction" until it's included in a new block. Only transactions that are part of a block have been "processed" and their attached amounts are hence available to the recipient.
+
+One Block typically contains more than one Transaction - in this course, we'll simply add all open transactions. Once the Block has been created, the "Open Transactions" are of course cleared.
 
 ## Transactions with Dictionaries and tuples
 
@@ -159,6 +173,11 @@ Unpacking:
 ![outcome](./35.JPG)
 
 ### Refer to **blockchain_final_module.py** for the complete implementation of this module
+
+## Useful Resources & Links
+
+•	More on Data Structures: https://docs.python.org/3/tutorial/datastructures.html
+
 
 
 

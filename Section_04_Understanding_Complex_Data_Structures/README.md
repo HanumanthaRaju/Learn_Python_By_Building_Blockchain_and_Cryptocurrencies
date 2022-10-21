@@ -104,6 +104,16 @@ Whenever a Miners create a new block, he needs to be rewarded i.e coins
 
 Defines verify_transaction()
 
+## Reference Vs Value Copying
+
+![outcome](./21.JPG)
+
+![outcome](./22.JPG)
+
+![outcome](./23.JPG)
+
+
+
 
 
 

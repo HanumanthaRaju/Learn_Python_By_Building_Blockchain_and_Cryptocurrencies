@@ -63,6 +63,11 @@ Refer to the **blockchain.py** code in the folder **data-structures-02-block-min
 
 ![outcome](./13.JPG)
 
+Refer to the **blockchain.py** code in the folder
+
+![outcome](./14.JPG)
+
+![outcome](./15.JPG)
 
 
 

@@ -28,6 +28,25 @@ Refer to the **blockchain1.py file**, run it and check the hash generated
 
 ## Using other import syntax
 
+Use aliases instead of the package name: **import hashlib as hl**
+
+Restrict import to specif functions of a package: **from functools import reduce**
+
+## The Proof of Work
+
+### Adding Proof of Work
+
+![outcome](./04.JPG)
+
+### Proof of Work
+
+![outcome](./05.JPG)
+
+### Cheating the Blockchain
+
+![outcome](./06.JPG)
+
+
 
 
 

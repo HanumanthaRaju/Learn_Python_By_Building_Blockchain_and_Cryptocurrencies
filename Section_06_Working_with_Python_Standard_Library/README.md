@@ -46,7 +46,19 @@ Restrict import to specif functions of a package: **from functools import reduce
 
 ![outcome](./06.JPG)
 
+## Adding Proof of work to our blockchain
 
+Refer to **blockchain1.py code**
+
+Define a **valid_proof()** function, it requires transactions, last_hash and proof number as arguments, function body is used to guess the new hash. We check the new hash generated whether ot is precceding with **two zero's**, this is our check to determine whether proof is valid.
+
+Include a another function **Proof_of_work()** uses last_block and last_hash which calls last_block(), initialize proof to 0, have a loop to increment proof, until valid_proof() returns true, then return a proof
+
+## Include proof of work in our mining function
+
+Use prrof_of_work when we mine a block. In the **mine_block()** give a call to proof_of_work() which returns proof, in the block add the proof field and append to our blockchain. also add proof to our genesis block fir instance we initialize to 100.
+
+Also we should ensure the **verify_chain()** to have an additional check to check if our new hash begins with two zero's, add a if block in it
 
 
 

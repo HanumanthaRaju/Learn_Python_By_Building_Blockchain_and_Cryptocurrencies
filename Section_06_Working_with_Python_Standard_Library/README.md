@@ -129,6 +129,21 @@ Test the blockchain with all the options.
 
 Refer to **Final_implementation folder** for the blockchain implemented in this module
 
+## Wrap Up
+
+### Module S1mmary
+
+![outcome](./11.JPG)
+
+### What about Blockchain
+
+![outcome](./12.JPG)
+
+## Useful Resources & Links
+
+•	The (Standard) Library Reference: https://docs.python.org/3/library/index.html
+
+
 
 
 

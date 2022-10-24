@@ -48,7 +48,7 @@ Restrict import to specif functions of a package: **from functools import reduce
 
 ## Adding Proof of work to our blockchain
 
-Refer to **blockchain1.py code**
+Refer to **blockchain2.py code**
 
 Define a **valid_proof()** function, it requires transactions, last_hash and proof number as arguments, function body is used to guess the new hash. We check the new hash generated whether ot is precceding with **two zero's**, this is our check to determine whether proof is valid.
 

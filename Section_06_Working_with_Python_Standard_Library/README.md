@@ -72,7 +72,7 @@ Mine a new block that gives the output as below: refer to the hashes generated t
 
 ## Fixing a hash order fault
 
-Our current mechanism foe generating a hash one flaw, Our block is defined as dictionary which is unordered. In **hash_block() function use the sort_keys=True**. **import another package collections by importing OrderDict which is to be used in add_tansaction()**. comment out the old transaction and create with OrderedDict().
+Our current mechanism for generating a hash one flaw, Our block is defined as dictionary which is unordered. In **hash_block() function use the sort_keys=True**. **import another package collections by importing OrderDict which is to be used in add_tansaction()**. comment out the old transaction and create with OrderedDict().
 
 Refer to **blockchain3.py** file
 
@@ -81,6 +81,18 @@ Test the blockchain with all the options.
 ## Spltting up our code
 
 Refer to **Final_implementation folder** for the blockchain implemented in this module
+
+## Module Summary
+
+### Module Summary
+
+![outcome](./11.JPG)
+
+### Blockchain Status
+
+![outcome](./12.JPG)
+
+
 
 
 

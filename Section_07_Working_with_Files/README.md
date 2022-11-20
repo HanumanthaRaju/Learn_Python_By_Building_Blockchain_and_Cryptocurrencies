@@ -50,7 +50,40 @@ New function **load_data()** , the data read from this has to be initialzed to o
 
 Refer to **blockcahin2.py**
 
-We need to import json, while save
+We need to import json, We make changes in **save_data()** using **json.dumps** for blockchain and open_transaction.
+
+In **load_data()** use json libraray to deserialize the string, Takes string in json format and gives back python object. 
+
+Also we use list comprehension 
+
+## Storing data with Pickle
+
+Refer to **blockchain3.py**
+
+Refer to **save_data()** and **load_data()** 
+
+## Comparing pickle and json
+
+![outcome](./11.JPG)
+
+Changing it to back to json
+
+Proper error handling should be taken care
+
+## Module Summary
+
+Refer to **blockchain_final_code.py** file
+
+### Summary:
+
+![outcome](./12.JPG)
+
+![outcome](./13.JPG)
+
+## Useful Links
+
+
+
 
 
 

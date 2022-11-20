@@ -90,6 +90,7 @@ Refer to completed code in **Final_Section_code folder**
 ## Useful Links
 
 •	Docstring Examples: http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html
+
 •	Python Special Methods: https://docs.python.org/3/reference/datamodel.html#basic-customization
 
 

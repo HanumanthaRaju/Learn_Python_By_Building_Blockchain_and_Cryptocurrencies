@@ -82,6 +82,11 @@ Refer to **blockchain_final_code.py** file
 
 ## Useful Links
 
+•	Reading and Writing Files: https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+
+•	More on the json Package: https://docs.python.org/3/library/json.html
+
+•	More on the pickle Package: https://docs.python.org/3/library/pickle.html
 
 
 

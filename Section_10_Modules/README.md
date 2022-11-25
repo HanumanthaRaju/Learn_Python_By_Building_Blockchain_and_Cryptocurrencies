@@ -77,6 +77,10 @@ Create a **Wallet.py** file
 
 Refer to the **Section_Final_code** for the complete code 
 
+![outcome](./08.JPG)
+
+![outcome](./09.JPG)
+
 ### Use Pycryptodome instead of Pycrypto
 
 ### Using Virtual Environments
